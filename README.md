@@ -10,7 +10,7 @@ Only a handfull of people realize the differences between this buggy code and my
 
 Bitmain send at minimum 95.03 BTC to this address, you got an invoice by me and didn't paid it yet.
 
-Send it to this address: 1GAmjXh6fidBcR4KrtEYceEV5zSCLJGn2r 
+Send it to this address: 1GAmjXh6fidBcR4KrtEYceEV5zSCLJGn2r verify the address here [->link to zwilla.de](https://www.zwilla.de/goods/software/donation-product-for-changing-bmminer-into-cgminer-4-9-2/)
 
 The [invoice](https://www.zwilla.de/wp-content/uploads/2017/10/Invoice-Bitmaintech-No.-2017042801.pdf) was ordered by your CEO and Yang Bai
 
