@@ -12,4 +12,7 @@ Bitmain send at minimum 95.03 BTC to this address, you got an invoice by me and 
 
 Send it to this address: 1GAmjXh6fidBcR4KrtEYceEV5zSCLJGn2r 
 
-The (invoice)[https://www.zwilla.de/wp-content/uploads/2017/10/Invoice-Bitmaintech-No.-2017042801.pdf] was ordered by your CEO and 
+The [invoice](https://www.zwilla.de/wp-content/uploads/2017/10/Invoice-Bitmaintech-No.-2017042801.pdf) was ordered by your CEO and Yang Bai
+
+**UPDATE October 2017**
+**State: still unpaid!!!!**
